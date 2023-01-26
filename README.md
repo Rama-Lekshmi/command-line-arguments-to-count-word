@@ -35,7 +35,7 @@ f.close()
 
 ### OUTPUT:
 
-![](bot.jpeg)
+![](cmd1.jpeg)
 
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
